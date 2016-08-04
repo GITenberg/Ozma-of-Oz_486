@@ -1,0 +1,57 @@
+_repo: Ozma-of-Oz_486
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Baum, Lyman Frank
+    - Van Dyne, Edith
+    - Bancroft, Laura
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: "Ozma of Oz: A Record of Her Adventures with Dorothy Gale of Kansas,\
+  \ Billina the Yellow Hen, the Scarecrow, the Tin Woodsman, Tik-Tok, the Cowardly\
+  \ Lion and the Hungry Tiger; Besides Other Good People too Numerous to Mention Faithfully\
+  \ Recorded Herein published on July 30, 1907, was the third book of L. Frank Baum's\
+  \ Oz series. It was the first in which Baum was clearly intending a series of Oz\
+  \ books.\nIt is the first Oz book where the majority of the action takes place outside\
+  \ of the Land of Oz. Only the final two chapters take place in Oz itself. This reflects\
+  \ a subtle change in theme: in the first book, Oz is the dangerous land through\
+  \ which Dorothy must win her way back to Kansas; in the third, Oz is the end and\
+  \ aim of the book. Dorothy's desire to return home is not as desperate as in the\
+  \ first book, and it is her uncle's need for her rather than hers for him that makes\
+  \ her return.\nIt was illustrated throughout in color by artist John R. Neill.\n\
+  The book bore the following dedication: \"To all the boys and girls who read my\
+  \ stories – and especially to the Dorothys – this book is lovingly dedicated.\"\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Children's Literature
+- Fantasy
+gutenberg_issued: '1996-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '486'
+  wikidata: Q634885
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy'
+- !lcc 'PZ'
+- !lcsh 'Oz (Imaginary place) -- Fiction'
+- GITenberg
+title: Ozma of Oz
+url: http://www.gutenberg.org/ebooks/486
+wikipedia:
+- https://fr.wikipedia.org/wiki/Ozma,_la_princesse_d%27Oz
+- https://ar.wikipedia.org/wiki/%D8%A3%D9%88%D8%B2%D9%85%D8%A7_%D9%85%D9%86_%D8%A3%D9%88%D8%B2
+- https://pt.wikipedia.org/wiki/Ozma_of_Oz
+- https://de.wikipedia.org/wiki/Ozma_von_Oz
+- https://en.wikipedia.org/wiki/Ozma_of_Oz
+- https://it.wikipedia.org/wiki/Ozma,_regina_di_Oz
+- https://ru.wikipedia.org/wiki/%D0%9E%D0%B7%D0%BC%D0%B0_%D0%B8%D0%B7_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%8B_%D0%9E%D0%B7
+- https://ca.wikipedia.org/wiki/Ozma_d%27Oz
